@@ -6,10 +6,10 @@ public class PositiveNumberDeterminer {
         numberToBeDetermined = 1;
 
         if (numberToBeDetermined < 0) {
-            System.out.println("false")
+            System.out.println("false");
 
         } else if (numberToBeDetermined > 0) {
-            System.out.println("true")
+            System.out.println("true");
 
         }
     }
